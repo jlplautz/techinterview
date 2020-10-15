@@ -1,6 +1,6 @@
 attrs==20.2.0
 flake8==3.8.3
-iniconfig==1.0.1
+iniconfig==1.1.1
 mccabe==0.6.1
 packaging==20.4
 pluggy==0.13.1
